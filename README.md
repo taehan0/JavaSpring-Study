@@ -20,7 +20,7 @@ for example..
 
 ### How project works?
 
-By HTML, we click the botton that linked with some url.
-By Controller, url mapped with next action.
-By Service, we can encapsulate each little actions.
-By Repository, Service connected with DataBase. Also, we use Jpa in here.
+1. By HTML, we click the botton that linked with some url.
+2. By Controller, url mapped with next action.
+3. By Service, we can encapsulate each little actions.
+4. By Repository, Service connected with DataBase. Also, we use Jpa in here.
